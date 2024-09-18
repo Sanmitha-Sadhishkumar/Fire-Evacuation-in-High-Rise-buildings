@@ -1,0 +1,7 @@
+path: "/content/gdrive/My Drive/hazardousdetect/data"  #Dataset
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+names:
+  0: flammable
+  1: oxidizer
